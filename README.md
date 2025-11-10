@@ -28,7 +28,7 @@ app-dieta/
 │   │   └── server.ts  # Inicialização do servidor
 │   └── package.json
 │
-└── Frontend/web/      # Aplicação Web (Vue ou React)
+└── Frontend/web/      # Aplicação Web (Next Js)
     ├── src/
     ├── components/
     ├── pages/
