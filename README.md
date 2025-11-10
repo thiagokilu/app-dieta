@@ -110,6 +110,7 @@ GOOGLE_API_KEY=your_api_key_here
 > Interface moderna e intuitiva com geração de planos em tempo real.
 
 ![preview](https://res.cloudinary.com/ds4ptms7d/image/upload/v1762794071/Captura_de_tela_de_2025-11-10_13-45-47_j9ofhy.png)
+![preview](https://res.cloudinary.com/ds4ptms7d/image/upload/v1762794413/Captura_de_tela_de_2025-11-10_14-06-37_zpkc1e.png)
 
 ---
 
